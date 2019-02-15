@@ -20,11 +20,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
-<<<<<<< HEAD
             <groupId>junit</groupId>
-=======
-            <groupId>org.junit</groupId>
->>>>>>> d61bbb6633ce5bfb782954e777d884c33c69ade1
             <artifactId>junit</artifactId>
             <version>4.12</version>
             <scope>test</scope>
